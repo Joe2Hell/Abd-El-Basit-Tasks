@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714248889 source:f:\abd el-basit\task2_printgrades\main.c
+	<stdio.h>
+	<stdlib.h>
+
