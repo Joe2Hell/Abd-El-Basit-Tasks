@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716895640 source:f:\abd el-basit\abd-el-basit-tasks\task4_printbetweennumbersdescending\main.c
+	<stdio.h>
+	<stdlib.h>
+

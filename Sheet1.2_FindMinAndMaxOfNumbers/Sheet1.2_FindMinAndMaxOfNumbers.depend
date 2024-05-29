@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716981537 source:f:\abd el-basit\abd-el-basit-tasks\sheet1.2_findminandmaxofnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

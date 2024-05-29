@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716982040 source:f:\abd el-basit\abd-el-basit-tasks\sheet1.3_sumofuserinputnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
